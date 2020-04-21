@@ -23,6 +23,8 @@ li {
 a {
     text-decoration: none;
     color: #69696a;
+    font-size: 13px;
+
 }
 .button {
 padding: 9px;
@@ -38,10 +40,9 @@ h2 {
     margin-left: 5px;
 }
 p {
-    border-left: 2px solid;
-    border-color: #69696a;
+    border-left: 2px solid #69696a;
     padding-left: 10px;
     font-size: 13px;
-    /* display: block; */
     margin-left: 5px;
+    margin-bottom: 30px;
 }
